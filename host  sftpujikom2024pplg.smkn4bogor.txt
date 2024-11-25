@@ -1,0 +1,11 @@
+host : sftp://ujikom2024pplg.smkn4bogor.sch.id
+username : ujikom
+password : ujikom2024k4
+port : 6093
+
+username : ujikom
+password : ujikom2024k4
+https://ujikom2024pplg.smkn4bogor.sch.id/phpmyadmin/ 
+
+
+ssh -p 6093 ujikom@ujikom2024pplg.smkn4bogor.sch.id 

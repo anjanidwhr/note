@@ -1,0 +1,3 @@
+oba tanya chat gpt (cara menjalankan kembali project Laravel setelah berpindah dari laptop ke pc) 
+
+Nanti di kasih tau kaya jalanin composer install, cek versi composer, sesuaiin port sama Yanga ada di komputer,jalanin php artisan key generate gitu, baru php artisan serve
